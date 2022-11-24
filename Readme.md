@@ -1,3 +1,3 @@
-First Content
-This is modified just now
-Check whether it appears in remote repository ir not
+First Content.
+This is modified just now.
+Check whether it appears in local repository or not.
