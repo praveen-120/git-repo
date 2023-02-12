@@ -1,0 +1,1 @@
+The text is added to know about fetch and pull and merge.
